@@ -8,7 +8,9 @@ body {
     background-position: center;
     height: 100vh;
     transition: background 0.5s;
+    background-image: url('https://telegra.ph/file/eddea9df36591c1d4463d.jpg'); /* replace with your image path */
 }
+
 
 header {
     display: flex;
